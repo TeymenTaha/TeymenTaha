@@ -1,7 +1,7 @@
 # Hey, I'm Eymen 👋  
 
 ## 🌍 About Me
-🎓 IT Student at **YTÜ Maçka Vocational and Technical Anatolian High School**  
+🎓 IT Student at **YTU Maçka Vocational and Technical Anatolian High School**  
 💻 Exploring software development with **Python**, **Java**, and **C#**  
 🔧 Passionate about **Arduino projects** and hands-on hardware experiments   
 🤝 Believer in fairness, collaboration, and sharing knowledge openly  
