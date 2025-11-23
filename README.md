@@ -15,13 +15,6 @@
 
 ---
 
-## 📂 Featured Projects
-- **Arduino LED Animations** – Custom light patterns with playful Japanese-inspired names  
-- **DNS Troubleshooting Guide** – Step-by-step solutions for network issues  
-- **Creative School Projects** – Scripts and dramatizations with fair role distribution  
-
----
-
 ✨ *“Blending creativity with technology, one project at a time.”*  
 
 ---
@@ -40,13 +33,6 @@
 - C# ve WPF ile Windows masaüstü uygulama geliştirme konusunda uzmanlaşmak  
 - Modern arayüz tasarımı için çapraz platform frameworklerini öğrenmek  
 - Okul projelerimi ve teknik deneylerimi GitHub’da paylaşmak  
-
----
-
-## 📂 Öne Çıkan Projeler
-- **Arduino LED Animasyonları** – Japon esintili yaratıcı isimlerle özel ışık desenleri  
-- **DNS Sorun Giderme Rehberi** – Ağ problemleri için adım adım çözümler  
-- **Yaratıcı Okul Projeleri** – Adil rol dağılımıyla yazılmış senaryolar ve dramatizasyonlar  
 
 ---
 
